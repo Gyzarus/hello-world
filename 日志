@@ -87,3 +87,5 @@ linux内核中读写文件
 https://www.cnblogs.com/chingliu/archive/2011/08/30/2223801.html
 学长的Rootkit
 https://github.com/chan-shaw/Linux-Rootkit/blob/master/sys_call_table/rooty.c
+Rootkit-LKM编程劫持系统调用，隐藏后门程序backdoor（ps，ls）
+https://blog.csdn.net/bw_yyziq/article/details/78448667
