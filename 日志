@@ -85,3 +85,5 @@ Linux内核对文件的读写操作
 https://blog.csdn.net/star0116/article/details/104851186
 linux内核中读写文件
 https://www.cnblogs.com/chingliu/archive/2011/08/30/2223801.html
+学长的Rootkit
+https://github.com/chan-shaw/Linux-Rootkit/blob/master/sys_call_table/rooty.c
