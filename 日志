@@ -89,3 +89,6 @@ https://www.cnblogs.com/chingliu/archive/2011/08/30/2223801.html
 https://github.com/chan-shaw/Linux-Rootkit/blob/master/sys_call_table/rooty.c
 Rootkit-LKM编程劫持系统调用，隐藏后门程序backdoor（ps，ls）
 https://blog.csdn.net/bw_yyziq/article/details/78448667
+
+三张图搞透第一范式(1NF)、第二范式(2NF)和第三范式(3NF)的区别
+https://blog.csdn.net/weixin_43971764/article/details/88677688
